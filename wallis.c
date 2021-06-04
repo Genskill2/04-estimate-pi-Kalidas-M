@@ -14,9 +14,6 @@ float wallis_pi(int n)
  	pi=2*prod;
  	return pi;
 }
-
-
-
 int main(void) 
 {
   float pi;
